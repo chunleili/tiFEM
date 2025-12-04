@@ -2,6 +2,10 @@ The tutorial code to implement explicit & implicit FEM simulation using Taichi.
 
 For a didactic purpose, the code is written in a simple way with **only one tetrahedron** element.
 
+Reference: 
+[Sifakis, SIGGRAPH 2012 Course FEM Simulation of 3D Deformable Solids Part One Chapter 4]( https://viterbi-web.usc.edu/~jbarbic/femdefo/sifakis-courseNotes-TheoryAndDiscretization.pdf)
+(Especially the Algorithm 1 in Chapter 4)
+
 usage: 
 ```
     python tiFEM.py 
